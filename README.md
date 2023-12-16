@@ -22,5 +22,8 @@ Repository [Web application 'Modren prose in Belarus and China'](https://github.
 # Usage
 This is the demo project.
 
+# Reports
+Please, visit `reports/` folder to find link on reports.
+
 # Contributing
 Author: Huo Xuepeng.
